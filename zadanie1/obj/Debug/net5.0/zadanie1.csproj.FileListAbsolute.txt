@@ -1,0 +1,16 @@
+C:\Users\jakub\Desktop\smallWorks\zadanie1\bin\Debug\net5.0\zadanie1.exe
+C:\Users\jakub\Desktop\smallWorks\zadanie1\bin\Debug\net5.0\zadanie1.deps.json
+C:\Users\jakub\Desktop\smallWorks\zadanie1\bin\Debug\net5.0\zadanie1.runtimeconfig.json
+C:\Users\jakub\Desktop\smallWorks\zadanie1\bin\Debug\net5.0\zadanie1.runtimeconfig.dev.json
+C:\Users\jakub\Desktop\smallWorks\zadanie1\bin\Debug\net5.0\zadanie1.dll
+C:\Users\jakub\Desktop\smallWorks\zadanie1\bin\Debug\net5.0\ref\zadanie1.dll
+C:\Users\jakub\Desktop\smallWorks\zadanie1\bin\Debug\net5.0\zadanie1.pdb
+C:\Users\jakub\Desktop\smallWorks\zadanie1\obj\Debug\net5.0\zadanie1.csprojAssemblyReference.cache
+C:\Users\jakub\Desktop\smallWorks\zadanie1\obj\Debug\net5.0\zadanie1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jakub\Desktop\smallWorks\zadanie1\obj\Debug\net5.0\zadanie1.AssemblyInfoInputs.cache
+C:\Users\jakub\Desktop\smallWorks\zadanie1\obj\Debug\net5.0\zadanie1.AssemblyInfo.cs
+C:\Users\jakub\Desktop\smallWorks\zadanie1\obj\Debug\net5.0\zadanie1.csproj.CoreCompileInputs.cache
+C:\Users\jakub\Desktop\smallWorks\zadanie1\obj\Debug\net5.0\zadanie1.dll
+C:\Users\jakub\Desktop\smallWorks\zadanie1\obj\Debug\net5.0\ref\zadanie1.dll
+C:\Users\jakub\Desktop\smallWorks\zadanie1\obj\Debug\net5.0\zadanie1.pdb
+C:\Users\jakub\Desktop\smallWorks\zadanie1\obj\Debug\net5.0\zadanie1.genruntimeconfig.cache
