@@ -1,0 +1,15 @@
+C:\Users\jakub\Desktop\smallWorks\zadanie5\bin\Debug\net5.0\zadanie5.exe
+C:\Users\jakub\Desktop\smallWorks\zadanie5\bin\Debug\net5.0\zadanie5.deps.json
+C:\Users\jakub\Desktop\smallWorks\zadanie5\bin\Debug\net5.0\zadanie5.runtimeconfig.json
+C:\Users\jakub\Desktop\smallWorks\zadanie5\bin\Debug\net5.0\zadanie5.runtimeconfig.dev.json
+C:\Users\jakub\Desktop\smallWorks\zadanie5\bin\Debug\net5.0\zadanie5.dll
+C:\Users\jakub\Desktop\smallWorks\zadanie5\bin\Debug\net5.0\ref\zadanie5.dll
+C:\Users\jakub\Desktop\smallWorks\zadanie5\bin\Debug\net5.0\zadanie5.pdb
+C:\Users\jakub\Desktop\smallWorks\zadanie5\obj\Debug\net5.0\zadanie5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jakub\Desktop\smallWorks\zadanie5\obj\Debug\net5.0\zadanie5.AssemblyInfoInputs.cache
+C:\Users\jakub\Desktop\smallWorks\zadanie5\obj\Debug\net5.0\zadanie5.AssemblyInfo.cs
+C:\Users\jakub\Desktop\smallWorks\zadanie5\obj\Debug\net5.0\zadanie5.csproj.CoreCompileInputs.cache
+C:\Users\jakub\Desktop\smallWorks\zadanie5\obj\Debug\net5.0\zadanie5.dll
+C:\Users\jakub\Desktop\smallWorks\zadanie5\obj\Debug\net5.0\ref\zadanie5.dll
+C:\Users\jakub\Desktop\smallWorks\zadanie5\obj\Debug\net5.0\zadanie5.pdb
+C:\Users\jakub\Desktop\smallWorks\zadanie5\obj\Debug\net5.0\zadanie5.genruntimeconfig.cache
