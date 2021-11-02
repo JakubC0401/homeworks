@@ -1,0 +1,15 @@
+C:\Users\jakub\Desktop\smallWorks\zadanie7\bin\Debug\net5.0\zadanie7.exe
+C:\Users\jakub\Desktop\smallWorks\zadanie7\bin\Debug\net5.0\zadanie7.deps.json
+C:\Users\jakub\Desktop\smallWorks\zadanie7\bin\Debug\net5.0\zadanie7.runtimeconfig.json
+C:\Users\jakub\Desktop\smallWorks\zadanie7\bin\Debug\net5.0\zadanie7.runtimeconfig.dev.json
+C:\Users\jakub\Desktop\smallWorks\zadanie7\bin\Debug\net5.0\zadanie7.dll
+C:\Users\jakub\Desktop\smallWorks\zadanie7\bin\Debug\net5.0\ref\zadanie7.dll
+C:\Users\jakub\Desktop\smallWorks\zadanie7\bin\Debug\net5.0\zadanie7.pdb
+C:\Users\jakub\Desktop\smallWorks\zadanie7\obj\Debug\net5.0\zadanie7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jakub\Desktop\smallWorks\zadanie7\obj\Debug\net5.0\zadanie7.AssemblyInfoInputs.cache
+C:\Users\jakub\Desktop\smallWorks\zadanie7\obj\Debug\net5.0\zadanie7.AssemblyInfo.cs
+C:\Users\jakub\Desktop\smallWorks\zadanie7\obj\Debug\net5.0\zadanie7.csproj.CoreCompileInputs.cache
+C:\Users\jakub\Desktop\smallWorks\zadanie7\obj\Debug\net5.0\zadanie7.dll
+C:\Users\jakub\Desktop\smallWorks\zadanie7\obj\Debug\net5.0\ref\zadanie7.dll
+C:\Users\jakub\Desktop\smallWorks\zadanie7\obj\Debug\net5.0\zadanie7.pdb
+C:\Users\jakub\Desktop\smallWorks\zadanie7\obj\Debug\net5.0\zadanie7.genruntimeconfig.cache
